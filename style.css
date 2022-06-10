@@ -1,0 +1,86 @@
+.wrapper{
+	width: 725px;
+	margin: auto;
+}
+
+.wrapper ul{
+	list-style: none;
+}
+.wrapper ul li{
+	width: 320px;
+	float: left;
+	margin-right: 30px;
+}
+
+.wrapper ul li .phandau{
+	margin: 20px 0px;
+	border-left: 5px solid red;
+}
+.wrapper ul li .border{
+border-right: 1px solid pink;
+    margin-right: -15px;
+
+
+}
+.wrapper ul li .phandau h3{
+	margin-left: 10px;
+	color: black;
+	font-size: 25px;
+}
+.wrapper ul li .phandau h3 a{
+	color: black;
+}
+.wrapper ul li .phangiua{
+
+	height: 277px;
+
+}
+.wrapper ul li .phangiua a{}
+.wrapper ul li .phangiua a img{
+	width: 320px;
+	height: 180px;
+	padding-bottom: 13px;
+
+}
+.wrapper ul li .phangiua p{
+	font-weight: bold;
+	font-size: 20px;
+	line-height: 25px;
+	width: 296px;
+}
+.wrapper ul li .phancuoi{
+	margin-top: 15px;
+	border-top: 1px solid pink;
+	width: 320px;
+}
+.wrapper ul li .phancuoi ul{
+margin-top: 15px;
+}
+.wrapper ul li .phancuoi ul li{
+	margin: 10px;
+
+}
+.wrapper ul li .phancuoi ul li .left{
+	float: left;
+	width: 60px;
+}
+.wrapper ul li .phancuoi ul li .left img{
+	width: 60px;
+	height: 60px;
+
+}
+.wrapper ul li .phancuoi ul li .right{
+	float: right;
+	width: 248px;
+}
+.wrapper ul li .phancuoi ul li .right p{
+	font-size: 16px;
+	line-height: 17px;
+}
+a{
+	text-decoration: none;
+
+}
+.clr{
+	clear: both;
+}
